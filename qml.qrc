@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Led.qml</file>
+        <file>Tuner.qml</file>
+        <file>TopFrame.qml</file>
+    </qresource>
+    <qresource prefix="/appImages">
+        <file alias="flat.jpg">images/flat.jpg</file>
+        <file alias="sharp.jpg">images/sharp.jpg</file>
+    </qresource>
+</RCC>
